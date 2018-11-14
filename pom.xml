@@ -83,7 +83,7 @@
         <maven.compiler.useIncrementalCompilation>false</maven.compiler.useIncrementalCompilation>
 
         <!-- Dependencies -->
-        <airline.version>2.3.0</airline.version>
+        <airline.version>2.6.0</airline.version>
         <amqp-client.version>5.0.0</amqp-client.version>
         <apache-directory-version>1.0.0</apache-directory-version>
         <auto-value.version>1.5.2</auto-value.version>
