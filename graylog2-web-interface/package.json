@@ -74,7 +74,7 @@
     "react-select": "^v1.0.0-rc.10",
     "rickshaw": "^1.5.1",
     "sockjs-client": "1.1.x",
-    "superagent": "^3.4.3",
+    "superagent": "^3.8.1",
     "superagent-bluebird-promise": "^4.1.0",
     "toastr": "^2.1.2",
     "typeahead.js": "^0.11.1",
