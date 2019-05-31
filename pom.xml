@@ -83,9 +83,9 @@
         <maven.compiler.useIncrementalCompilation>false</maven.compiler.useIncrementalCompilation>
 
         <!-- Dependencies -->
-        <airline.version>2.3.0</airline.version>
+        <airline.version>2.6.0</airline.version>
         <amqp-client.version>5.0.0</amqp-client.version>
-        <apache-directory-version>1.0.0</apache-directory-version>
+        <apache-directory-version>1.0.3</apache-directory-version>
         <auto-value.version>1.5.2</auto-value.version>
         <auto-value-javabean.version>1.0.0</auto-value-javabean.version>
         <commons-codec.version>1.11</commons-codec.version>
@@ -93,12 +93,12 @@
         <commons-io.version>2.6</commons-io.version>
         <disruptor.version>3.3.7</disruptor.version>
         <drools.version>6.5.0.Final</drools.version>
-        <elasticsearch.version>2.4.4</elasticsearch.version>
+        <elasticsearch.version>6.1.0</elasticsearch.version>
         <jest.version>2.4.10+jackson</jest.version>
-        <gelfclient.version>1.4.1</gelfclient.version>
+        <gelfclient.version>1.4.2</gelfclient.version>
         <grok.version>0.1.7-graylog</grok.version>
         <guava-retrying.version>2.0.0</guava-retrying.version>
-        <guava.version>23.4-jre</guava.version>
+        <guava.version>24.1.1-jre</guava.version>
         <guice.version>4.1.0</guice.version>
         <HdrHistogram.version>2.1.10</HdrHistogram.version>
         <hibernate-validator.version>6.0.4.Final</hibernate-validator.version>
@@ -117,7 +117,7 @@
         <jna.version>4.1.0</jna.version> <!-- for ES, make sure to use the version that ES uses -->
         <joda-time.version>2.9.9</joda-time.version>
         <json-path.version>2.4.0</json-path.version>
-        <kafka.version>0.9.0.1</kafka.version>
+        <kafka.version>2.1.1</kafka.version>
         <log4j.version>2.9.1</log4j.version>
         <metrics.version>3.2.5</metrics.version>
         <mongodb-driver.version>3.5.0</mongodb-driver.version>
@@ -129,7 +129,7 @@
         <os-platform-finder.version>1.2.2</os-platform-finder.version>
         <protobuf.version>3.4.0</protobuf.version>
         <reflections.version>0.9.11</reflections.version>
-        <retrofit.version>2.3.0</retrofit.version>
+        <retrofit.version>2.5.0</retrofit.version>
         <scala.version>2.11.8</scala.version>
         <shiro.version>1.4.0</shiro.version>
         <sigar.version>1.6.4</sigar.version>
