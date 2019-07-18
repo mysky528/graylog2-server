@@ -85,7 +85,7 @@
         <!-- Dependencies -->
         <airline.version>2.3.0</airline.version>
         <amqp-client.version>5.0.0</amqp-client.version>
-        <apache-directory-version>1.0.0</apache-directory-version>
+        <apache-directory-version>1.0.3</apache-directory-version>
         <auto-value.version>1.5.2</auto-value.version>
         <auto-value-javabean.version>1.0.0</auto-value-javabean.version>
         <commons-codec.version>1.11</commons-codec.version>
@@ -117,7 +117,7 @@
         <jna.version>4.1.0</jna.version> <!-- for ES, make sure to use the version that ES uses -->
         <joda-time.version>2.9.9</joda-time.version>
         <json-path.version>2.4.0</json-path.version>
-        <kafka.version>0.9.0.1</kafka.version>
+        <kafka.version>2.1.1</kafka.version>
         <log4j.version>2.9.1</log4j.version>
         <metrics.version>3.2.5</metrics.version>
         <mongodb-driver.version>3.5.0</mongodb-driver.version>
